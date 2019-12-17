@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IDEs & Code Editors
-nav_order: 3
+nav_order: 6
 has_children: true
 has_toc: false
 permalink: /docs/ui-ides

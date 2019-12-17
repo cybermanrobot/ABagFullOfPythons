@@ -24,6 +24,7 @@ Out of the box, PyCharm supports Python development directly. You can just open 
 
 ## Spyder
 Website: [https://www.spyder-ide.org/](https://www.spyder-ide.org/)
+
 Anaconda Package: [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
 
 Spyder is an open-source Python IDE that’s optimized for data science workflows. Spyder comes included with the Anaconda package manager distribution, so depending on your setup you may already have it installed on your machine.
