@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Python Overview
-nav_order: 2
+nav_order: 4
 ---
 
 # Python Overview
@@ -9,6 +9,8 @@ nav_order: 2
 
 1. TOC
 {:toc}
+
+---
 
 ## What is Python?
 
